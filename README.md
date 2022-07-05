@@ -4,6 +4,7 @@
 
 ## Additional explanation : 
  here you can create an account by signing up and login later, you can still Logout .
+ ## This is totally functioning and responsive !
 
 # Getting Started with Create React App
 
